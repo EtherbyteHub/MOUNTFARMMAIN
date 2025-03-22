@@ -25,7 +25,7 @@ Tabs.Main:AddButton({
     Title = "Copy Discord Link",
     Description = "Copies the Discord invite link to clipboard",
     Callback = function()
-        setclipboard("https://discord.gg/WGVvxfzTP2")
+        setclipboard("https://discord.gg/etherbytehub")
         Fluent:Notify({
             Title = "Copied!",
             Content = "Discord link copied to clipboard.",
